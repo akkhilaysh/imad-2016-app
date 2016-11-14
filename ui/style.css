@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     background-color: #C0C0C0;
     margin-top: 75px;
-    color: #C31014;	 
+    color: #f;	 
 }
 
 .center {
@@ -21,3 +21,12 @@ body {
     height: 200px;
 }
 
+.container{
+			    max-width: 800px;
+			    margin: 0 auto;
+			    color: #c17300;
+			    font-family: "Lucida Console", Monaco, monospace;
+			    padding-top: 60px;
+			    padding-left: 20px;
+			    padding-right: 20px		  
+}
